@@ -1,0 +1,45 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.center{
+    border-radius: 50%;
+    height: 15vw;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card{
+    align-items: center;
+}
+h2{
+    font-size: 35px;
+}
+.html-logo-01{
+    height: 18vw
+}
+.css-logo-01{
+    height: 232px;
+    width: 163px;
+    margin-right: 69px;
+    margin-top: -81px;
+}
+.js-logo-01{
+    height: 220px;
+    width: 398px;
+    margin-right: -41px;
+    margin-top: -77px;
+}
+.git-logo-01{
+    height: 170px;
+    width: 197px;
+    margin-right: 61px;
+    margin-top: -77px;
+}
